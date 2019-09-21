@@ -1,3 +1,3 @@
 # Projects: JavaScript
 
-1. Game: How Many Fingers? - Game-How_Many_Fingers
+1. Game: How many fingers Computer holding up? - 08.09.2019
