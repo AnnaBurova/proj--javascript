@@ -1,5 +1,12 @@
 document.getElementById('guess').onclick = function () {
 
+  if (document.getElementById('myNumber').value > 5 || document.getElementById('myNumber').value < 0) {
+
+    alert('You can have maximal 5 fingers!');
+
+    return;
+  }
+
   var gotit = false;
   var guesses = 1;
   var x;
